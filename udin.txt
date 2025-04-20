@@ -1,1 +1,2 @@
 Ini adalah baris ke-1
+Ini adalah baris ke-2
